@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+	<TITLE></TITLE>
+</HEAD>
+<BODY>
+      <H2>Mi primer Archivo con JavaScript</H2>
+      <BUTTON TYPE="botton" ONCLICK="document.getElementById('demo').innerHTML = Date()">
+      Da click para ver la fecha
+      </BUTTON>
+      <P Id="demo"></P>
+</BODY>
+</HTML>
